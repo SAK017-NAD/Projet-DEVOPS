@@ -83,5 +83,5 @@ L’application repose sur une architecture en trois couches :
 ## 1️⃣ Cloner le repository
 
 ```bash
-git clone https://github.com/votre-username/mbaesg-management-dashboard.git
-cd mbaesg-management-dashboard
+git clone https://github.com/SAK017-NAD/Projet-DEVOPS.git
+cd Projet-DEVOPS
