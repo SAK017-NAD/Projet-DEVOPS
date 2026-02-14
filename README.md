@@ -46,3 +46,42 @@ L’application repose sur une architecture en trois couches :
 - Requêtes SQL pour les indicateurs
 
 ---
+
+# 🚀 Fonctionnalités
+
+✅ Téléversement de fichiers CSV  
+✅ Stockage automatique dans DuckDB  
+✅ 4 KPI dynamiques :  
+
+- 💰 Chiffre d’affaires total  
+- 📍 Ventes par région  
+- 📈 Évolution des ventes dans le temps  
+- 🏆 Top produits  
+
+✅ Filtres dynamiques :
+- Par date  
+- Par région  
+- Par produit  
+
+✅ Visualisations interactives avec Plotly  
+
+---
+
+# 🛠️ Technologies Utilisées
+
+- Python 3.10+
+- Streamlit
+- DuckDB
+- Pandas
+- Plotly
+- GitHub Actions (CI)
+
+---
+
+# ⚙️ Installation et Exécution
+
+## 1️⃣ Cloner le repository
+
+```bash
+git clone https://github.com/votre-username/mbaesg-management-dashboard.git
+cd mbaesg-management-dashboard
